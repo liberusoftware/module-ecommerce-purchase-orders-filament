@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-purchase-orders-filament",
+  "description": "Purchase Orders Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capabilityfa98e13497ae\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-purchase-orders-filament"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-purchase-orders-filament",
+  "capabilityKey": "planned:ecommerce:purchase-orders",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-purchase-orders-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/purchase-orders.md",
+  "presentationPlan": "projects/ecommerce/filament/purchase-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
